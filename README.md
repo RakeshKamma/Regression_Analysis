@@ -1,7 +1,3 @@
-# Regression_Analysis
-
-Certainly! Here's a GitHub README file based on the information you provided:
-
 # House Price Prediction Project
 
 This repository contains a house price prediction project using various regression models. The goal of this project is to predict house prices based on different features, and we have implemented several regression models to find the most accurate one.
